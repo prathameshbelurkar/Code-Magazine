@@ -1,3 +1,3 @@
 # Code-Magazine
 ## Acknowledgement
-## - Sir Jonas Schmedtmann
+- Sir Jonas Schmedtmann
